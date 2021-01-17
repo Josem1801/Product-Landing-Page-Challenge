@@ -3,7 +3,7 @@
 Actualmente estoy mejorando mis habilidades en HTML y CSS, este es el resultado que obtuve pero espero seguir mejorando mucho mas. 
 Si tienen alguna critica constructiva no olviden decirmelo para aprender, gracias!
 
-![Preview Product-Landing-Page Challenge](./Preview)
-
 Pueden ver la pagina ya finalizada en mi perfil de Code.io
 https://codepen.io/JoseRg09/full/oNzPbrK
+
+![Preview Product-Landing-Page Challenge](./Preview)
