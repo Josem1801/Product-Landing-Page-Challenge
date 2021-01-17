@@ -6,4 +6,4 @@ Si tienen alguna critica constructiva no olviden decirmelo para aprender, gracia
 Pueden ver la pagina ya finalizada en mi perfil de Code.io
 https://codepen.io/JoseRg09/full/oNzPbrK
 
-![Preview Product-Landing-Page Challenge](./Preview)
+![Preview Product Landing Page Challenge](./Preview.png)
